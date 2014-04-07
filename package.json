@@ -1,8 +1,8 @@
 {
-  "name": "hello-world",
+  "name": "Quote Server",
   "version": "0.0.0",
   "description": "assignment 2 heroku test",
-  "main": "web.js",
+  "main": "quote.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
